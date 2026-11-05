@@ -1,0 +1,12 @@
+{
+  "name": "korean-developer-skills",
+  "description": "한국인 개발자를 위한 Claude Code 스킬 모음",
+  "owner": { "name": "handyskr" },
+  "plugins": [
+    {
+      "name": "korean-developer-skills",
+      "source": "./",
+      "description": "한국인 개발자를 위한 Claude Code 스킬 모음"
+    }
+  ]
+}
