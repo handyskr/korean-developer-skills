@@ -1,6 +1,6 @@
 {
   "name": "korean-developer-skills",
-  "version": "0.2.0",
-  "description": "한국인 개발자를 위한 Claude Code 스킬 모음. 지금은 AI가 쓴 한국어 글을 한국 개발자가 읽기 쉽게 고치는 스킬(korean-sentences, korean-sentences-rules)이 들어 있다.",
+  "version": "0.3.0",
+  "description": "한국인 개발자를 위한 Claude Code 스킬 모음. AI가 쓴 한국어 문장을 고치는 스킬(korean-sentences, korean-sentences-rules), 읽기 어려운 문서와 결과물을 풀어서 설명하는 스킬(docent), 기반 지식을 한 권으로 배우는 교과서를 만드는 스킬(make-textbook)이 들어 있다.",
   "author": { "name": "handyskr" }
 }
